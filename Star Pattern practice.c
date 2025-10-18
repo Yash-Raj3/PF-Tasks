@@ -6,7 +6,7 @@ scanf("%d",&n);
 // Right angle triangles.
 /*for(i=0;i<n;i++){
 for (j=n-i;j>=0;j--){
-    printsize_tf(" ");
+    printf(" ");
 }for(k=0;k<=i;k++){
     printf("*");
 }
